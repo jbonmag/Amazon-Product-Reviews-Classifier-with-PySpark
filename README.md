@@ -80,8 +80,4 @@ file_path = "/FileStore/tables/Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Prod
 
 ---
 
-## 📌 Author
-
-**Julio Bonet**  
-Machine Learning Engineer · Data Scientist · Cybersecurity Enthusiast  
-[LinkedIn](https://www.linkedin.com/in/j-b-1322b531) | `@jubonet-`
+`@jubonet-`
