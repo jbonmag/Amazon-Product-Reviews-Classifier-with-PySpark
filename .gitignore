@@ -1,0 +1,26 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local data and generated outputs
+data/
+outputs/
+models/
+*.csv
+*.parquet
+*.delta
+
+# Databricks and Spark artifacts
+dbfs/
+metastore_db/
+spark-warehouse/
+derby.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
