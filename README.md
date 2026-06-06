@@ -72,6 +72,3 @@ En Databricks normalmente PySpark ya está disponible en el runtime del cluster.
 
 El modelo base suele alcanzar un AUC razonable para una primera aproximación con TF-IDF y regresión logística. El rendimiento final depende de la versión del dataset, limpieza previa y partición train/test.
 
-## Seguridad
-
-El repositorio no requiere credenciales ni tokens. Los datos y salidas generadas se mantienen fuera de Git mediante `.gitignore`.
